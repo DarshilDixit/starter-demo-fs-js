@@ -31,7 +31,7 @@
   // src/index.ts
   window.Webflow ||= [];
   window.Webflow.push(() => {
-    const name = "Darshil";
+    const name = "Darshil Dixit";
     greetUser(name);
   });
 })();
