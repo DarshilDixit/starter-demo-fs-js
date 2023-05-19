@@ -33,7 +33,7 @@
   window.Webflow.push(() => {
     const name = "Darshil Dixit";
     greetUser(name);
-    document.body.style.backgroundColor = "red";
+    document.body.style.backgroundColor = "blue";
   });
 })();
 //# sourceMappingURL=index.js.map
